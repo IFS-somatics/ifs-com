@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://embodiedselfwork.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://embodiedselfwork.com/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://embodiedselfwork.com/sv/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://embodiedselfwork.com/"/>
+  </url>
+  <url>
+    <loc>https://embodiedselfwork.com/sv/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://embodiedselfwork.com/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://embodiedselfwork.com/sv/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://embodiedselfwork.com/"/>
+  </url>
+</urlset>
